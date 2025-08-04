@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">Frontend-Focused Full Stack Developer | JavaScript, React, Node.js, Express, MongoDB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam69x&label=Profile%20views&color=0e75b6&style=flat" alt="shivam69x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam69x" alt="shivam69x" /></a> </p>
-
 - 🔭 I’m currently working on **Digital Cloud Keepers**
 
 - 🌱 I’m currently learning **Next.js, Three.js**
@@ -12,6 +8,8 @@
 - 📫 How to reach me **shivam969492@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1StzIyK7JrOy2Cn-9XUdIqVqQvtgP0pGe/view?usp=sharing](https://drive.google.com/file/d/1StzIyK7JrOy2Cn-9XUdIqVqQvtgP0pGe/view?usp=sharing)
+
+- ⚡ Fun fact **I balance my passion for technology with fitness, maintaining discipline in both code and the gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
